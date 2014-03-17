@@ -1,0 +1,28 @@
+mean:55.6
+std deviation:1.01980390272
+mean:68.6
+std deviation:1.35646599663
+mean:75.4
+std deviation:1.49666295471
+mean:77.2
+std deviation:1.32664991614
+mean:75.0
+std deviation:1.788854382
+mean:75.8
+std deviation:1.32664991614
+mean:76.2
+std deviation:1.16619037897
+mean:77.2
+std deviation:0.748331477355
+mean:76.8
+std deviation:2.71293199325
+mean:77.8
+std deviation:3.12409987036
+mean:80.2
+std deviation:6.14491659829
+mean:76.6
+std deviation:2.15406592285
+mean:77.8
+std deviation:2.22710574513
+mean:77.8
+std deviation:1.72046505341

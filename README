@@ -1,0 +1,3 @@
+
+Each specific benchmark should be compiled with just "make" and ran under its own folder. 
+The analyze.py code is used to execute multipe experiment and output their mean with standard deviation.

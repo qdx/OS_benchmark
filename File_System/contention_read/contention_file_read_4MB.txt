@@ -1,0 +1,18 @@
+mean:165130.24
+std deviation:3310.60957867
+mean:194928.64
+std deviation:3160.04652345
+mean:259143.68
+std deviation:26835.9338302
+mean:301875.17
+std deviation:14335.0856308
+mean:390498.99
+std deviation:28803.6940671
+mean:459500.99
+std deviation:15028.9515552
+mean:506024.96
+std deviation:12205.1725837
+mean:605675.51
+std deviation:14341.0940799
+mean:701247.53
+std deviation:15376.3509907

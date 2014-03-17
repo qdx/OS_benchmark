@@ -1,0 +1,6 @@
+mean:44.00001
+std deviation:0.000939627585802
+mean:36.13356
+std deviation:0.506572289412
+mean:7.048982
+std deviation:0.0247395362931
