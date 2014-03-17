@@ -3,9 +3,29 @@ import numpy
 import sys
 
 
+'''
+This script is used to run multiple experiments, get their output,
+then calculate the mean and standard deviation for thoes data.
+Use this script like this:
+    python analyze.py "./exec" output.txt 100
+where "./exec" is the binary you are executing, output.txt is where
+the script will write the result, 100 is how many times you want
+to repeat the "./exec" command.
+
+The output format accepted by this script is like:
+    15.24
+    266.878
+    48765.7
+with just floating numbers. This script will treat each line of out
+put as one experiment, so average and standard deviation for each
+experiment are calculated separately among lines, each line forming
+their own data set.
+'''
+
+
 def prepare_subprocess(command):
     return subprocess.Popen(command, stdout=subprocess.PIPE,
-                     stderr=subprocess.PIPE)
+                            stderr=subprocess.PIPE)
 
 args = sys.argv
 command = args[1].split(" ")
